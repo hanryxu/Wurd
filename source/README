@@ -1,0 +1,7 @@
+This is how to build Wurd in a macOS Terminal window:
+
+1. Download the Mac command line skeleton for Wurd and unzip it.
+2. To build the program, change into the Wurd directory and type
+	make
+3. To run the program, type
+	./wurd
